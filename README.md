@@ -1,4 +1,4 @@
 <div> 
 <a href="https://github.com/beatrp">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrp&theme=graywhite&show_icons=true&hide_border=true&count_private=true&&include_all_commits=true&rank_icon=github"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=beatrp&theme=graywhite&hide_border=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrp&theme=graywhite&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=beatrp&theme=graywhite&hide_border=true">
