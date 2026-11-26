@@ -54,7 +54,4 @@ Confira também [meus outros repositórios](https://github.com/beatrp?tab=reposi
 </p>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=beatrp&color=ffffff&style=flat-square&label=visitas+neste+perfil" alt="Contador de visitas" />
-
 </div>
