@@ -28,7 +28,23 @@
   <img height="180" src="https://streak-stats.demolab.com?user=beatrp&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BBBBBB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="Sequência de contribuições" />
 </a>
 
-<br/><br/>
+</div>
+
+## 📂 Projetos em andamento
+
+<div align="center">
+
+<a href="https://github.com/beatrp/QRStudy"><img src="assets/qrstudy.svg" width="260" height="120" alt="QRStudy" /></a>
+<a href="https://github.com/beatrp/qrstudy-prototype"><img src="assets/qrstudy-prototype.svg" width="260" height="120" alt="QRStudy Prototype" /></a>
+<a href="https://github.com/beatrp/qrstudy-admin-prototype"><img src="assets/qrstudy-admin-prototype.svg" width="260" height="120" alt="QRStudy Admin Prototype" /></a>
+
+</div>
+
+Confira também [meus outros repositórios](https://github.com/beatrp?tab=repositories).
+
+<div align="center">
+
+<br/>
 
 <p>
   <a href="https://www.linkedin.com/in/beatrp"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000" alt="LinkedIn" /></a>
@@ -36,7 +52,4 @@
 </p>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=beatrp&color=ffffff&style=flat-square&label=visitas+neste+perfil" alt="Contador de visitas" />
-
 </div>
