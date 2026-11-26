@@ -30,13 +30,15 @@
 
 </div>
 
-## 📂 Projetos em andamento
+## 📂 Projetos
+
+Estes são os meus projetos mais atuais:
 
 <div align="center">
 
 <a href="https://github.com/beatrp/QRStudy"><img src="assets/qrstudy.svg" width="260" height="120" alt="QRStudy" /></a>
-<a href="https://github.com/beatrp/qrstudy-prototype"><img src="assets/qrstudy-prototype.svg" width="260" height="120" alt="QRStudy Prototype" /></a>
-<a href="https://github.com/beatrp/qrstudy-admin-prototype"><img src="assets/qrstudy-admin-prototype.svg" width="260" height="120" alt="QRStudy Admin Prototype" /></a>
+<a href="https://github.com/beatrp/QRStudyPrototype"><img src="assets/qrstudyprototype.svg" width="260" height="120" alt="QRStudyPrototype" /></a>
+<a href="https://github.com/beatrp/QRStudyAdminPrototype"><img src="assets/qrstudyadminprototype.svg" width="260" height="120" alt="QRStudyAdminPrototype" /></a>
 
 </div>
 
@@ -52,4 +54,7 @@ Confira também [meus outros repositórios](https://github.com/beatrp?tab=reposi
 </p>
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=beatrp&color=ffffff&style=flat-square&label=visitas+neste+perfil" alt="Contador de visitas" />
+
 </div>
