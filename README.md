@@ -6,10 +6,12 @@
 
 ---
 
+<div align="center">
+
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF&labelColor=000000" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=000000" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=000000" alt="CSS3" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&labelColor=000000" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&labelColor=000000" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF&labelColor=000000" alt="VS Code" />
@@ -17,9 +19,7 @@
 
 <br/>
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=beatrp&show_icons=true&hide_border=true&include_all_commits=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9C9C9&ring_color=FFFFFF" alt="Estatísticas do GitHub" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=beatrp&show_icons=true&hide_border=true&hide_rank=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9C9C9" alt="Estatísticas do GitHub" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrp&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=C9C9C9" alt="Linguagens mais usadas" />
 
 <br/>
@@ -28,17 +28,15 @@
   <img height="180" src="https://streak-stats.demolab.com?user=beatrp&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BBBBBB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="Sequência de contribuições" />
 </a>
 
-</div>
-
-<br/>
+<br/><br/>
 
 <p>
   <a href="https://www.linkedin.com/in/beatrp"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000" alt="LinkedIn" /></a>
-  <a href="mailto:beatrpfatec@gmail.com"><img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000" alt="E-mail" /></a>
+  <a href="mailto:beatrpfatec@gmail.com"><img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&labelColor=000000" alt="E-mail" /></a>
 </p>
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=beatrp&color=ffffff&style=flat-square&label=visitas+neste+perfil" alt="Contador de visitas" />
+<img src="https://komarev.com/ghpvc/?username=beatrp&color=ffffff&style=flat-square&label=visitas+neste+perfil" alt="Contador de visitas" />
+
 </div>
